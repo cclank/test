@@ -1,0 +1,8 @@
+[cl@rhel65 rpmbuild]$ ll
+total 24
+drwxr-xr-x 3 cl cl 4096 Jul 27 21:34 BUILD
+drwxr-xr-x 2 cl cl 4096 Jul 27 21:35 BUILDROOT
+drwxr-xr-x 3 cl cl 4096 Jul 27 17:01 RPMS
+drwxr-xr-x 2 cl cl 4096 Dec 22  2016 SOURCES
+drwxr-xr-x 2 cl cl 4096 Jul 27 16:49 SPECS
+drwxr-xr-x 2 cl cl 4096 Jul 28 14:45 SRPMS
